@@ -11,10 +11,7 @@ Um gerenciador de tarefas em linha de comando desenvolvido em Python, aplicando 
 * [Conceitos do Paradigma Estruturado Aplicados](#-conceitos-do-paradigma-estruturado-aplicados)
 * [Funcionalidades](#-funcionalidades)
 * [Como Executar](#-como-executar)
-* [Testes e Exemplos de Uso](#-testes-e-exemplos-de-uso)
-* [Contribuição](#-contribuição)
-* [Licença](#-licença)
-* [Autor](#-autor)
+
 
 ## 💡 Visão Geral do Projeto
 
@@ -60,6 +57,4 @@ Para executar este projeto em seu ambiente local, siga os passos abaixo:
     ```
     (Assumindo que o nome do seu arquivo principal é `gerenciador_tarefas.py`)
 
-## 📊 Testes e Exemplos de Uso
 
-A aplicação interage via terminal, apresentando um menu de opções. Abaixo, alguns exemplos de interação:
