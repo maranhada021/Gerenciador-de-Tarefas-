@@ -45,16 +45,14 @@ Para executar este projeto em seu ambiente local, siga os passos abaixo:
 
 2.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/](https://github.com/)[SeuUsuarioDoGitHub]/[NomeDoSeuRepositorio].git
+    git clone [https://github.com/maranhada021/](https://github.com/maranhada021/)[Gerenciador-de-Tarefas-].git
     ```
     ```bash
-    cd [NomeDoSeuRepositorio]
+    cd [Gerenciador-de-Tarefas-]
     ```
 
 3.  **Execute o script Python:**
     ```bash
-    python gerenciador_tarefas.py
+    python gerenciador.py
     ```
-    (Assumindo que o nome do seu arquivo principal é `gerenciador_tarefas.py`)
-
 
